@@ -106,7 +106,7 @@ public class ClientConsole implements ChatIF
   {
     String host = "";
     int port = 0;  //The port number
-
+    int y;
     try
     {
       host = args[0];
